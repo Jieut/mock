@@ -1,8 +1,8 @@
 {
-  "Post": {
+  "User": {
     "name": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
-  },
+  }
 }
