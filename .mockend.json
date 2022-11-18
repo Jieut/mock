@@ -1,6 +1,8 @@
 {
-  "User": {
-    "name": "JiSeongin"
-    "ani": "01045000985"
-  }
+  "Post": {
+    "name": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
 }
